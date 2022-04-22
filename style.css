@@ -1,0 +1,9 @@
+.sections{
+    display: inline-block;
+    border: 2px solid;
+    color: blue;
+    width: 40%;
+}
+.completed{
+text-decoration: line-through;
+}
